@@ -7,7 +7,7 @@ youtube.com#%#window.onload=function(){setTimeout(function(){if(document.getElem
 ```
 
 сам код скрипта
-```javascript
+``javascript
 window.onload = function(){
 	setTimeout(function(){
 		if(document.getElementById('chat') != null){
@@ -47,4 +47,4 @@ window.onload = function(){
 		};
 	}, 1200);
 };
-```
+``
