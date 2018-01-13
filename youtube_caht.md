@@ -25,8 +25,7 @@ window.onload = function(){
 				var ctrl = document.getElementsByClassName('ytp-right-controls')[0];
 				var btn = document.createElement('button');btn.className="ytp-button";
 				btn.title="Полный экран с чатом";
-				btn.innerHTML = '<div style="border:2px solid #fff; width: 15px;height: 13px;float: left;"></div>
-					<div style="border:2px solid #fff;width: 5px;height: 13px;float: left;border-left: 0;"></div>';
+				btn.innerHTML = '<div style="border:2px solid #fff; width: 15px;height: 13px;float: left;"></div><div style="border:2px solid #fff;width: 5px;height: 13px;float: left;border-left: 0;"></div>';
 				ctrl.appendChild(btn);
 				btn.addEventListener('click', function() {
 					var wchat = 300;
