@@ -1,4 +1,4 @@
-# adguard_plugin
+# Adguard Plugin
 Дополнительные расширения для плагина adguard
 
-+ [чат для youtube](youtube_caht.md)
++ [YouTube Chat](youtube_caht.md) - Добавление кнопки чата на всю ширину
